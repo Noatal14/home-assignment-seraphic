@@ -1,0 +1,17 @@
+.graph-renderer {
+  margin: 30px 20px;
+  width: min-content;
+
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    span {
+      margin: 0 0.5em;
+      white-space: nowrap;
+    }
+
+    margin-bottom: 16px;
+  }
+}
